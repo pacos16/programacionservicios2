@@ -6,7 +6,8 @@ import java.util.regex.Pattern;
 public class Ejemplo_URL {
     public static void main (String[] args) throws Exception {
         String tag;
-        tag= args[0];
+        //tag= args[0];
+        tag="a";
         try {
             // Constructor
             URL direccion = new URL("https://informatica.es.zone/course/dam-programacion-de-servicios-y-procesos/index.php");

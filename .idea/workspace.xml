@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f3285cbb-04d8-4e58-be17-039e506213e3" name="Default Changelist" comment="" />
+    <list default="true" id="f3285cbb-04d8-4e58-be17-039e506213e3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Dos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Ejemplo_URL.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Ejemplo_URL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Ejemplo_URL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ejemplo_URL.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +31,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1UqZD63CeP4CKrHxMdln1CJPt3D" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -28,7 +43,14 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Ejemplo_URL">
+  <component name="RunManager" selected="Application.Dos">
+    <configuration name="Dos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dos" />
+      <module name="InAdress.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Ejemplo_URL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ejemplo_URL" />
       <module name="InAdress.main" />
@@ -45,6 +67,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Dos" />
         <item itemvalue="Application.Ejemplo_URL" />
         <item itemvalue="Application.Main" />
       </list>
@@ -76,29 +99,49 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1807" height="205" key="GridCell.Tab.0.bottom" timestamp="1576091197276">
+    <state width="1807" height="200" key="GridCell.Tab.0.bottom" timestamp="1577030774732">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="205" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1576091197276" />
-    <state width="1807" height="205" key="GridCell.Tab.0.center" timestamp="1576091197275">
+    <state width="1807" height="200" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1577030774732" />
+    <state width="1807" height="200" key="GridCell.Tab.0.center" timestamp="1577030774731">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="205" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1576091197275" />
-    <state width="1807" height="205" key="GridCell.Tab.0.left" timestamp="1576091197274">
+    <state width="1807" height="200" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1577030774731" />
+    <state width="1807" height="200" key="GridCell.Tab.0.left" timestamp="1577030774731">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="205" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1576091197274" />
-    <state width="1807" height="205" key="GridCell.Tab.0.right" timestamp="1576091197276">
+    <state width="1807" height="200" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1577030774731" />
+    <state width="1807" height="200" key="GridCell.Tab.0.right" timestamp="1577030774732">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="205" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1576091197276" />
+    <state width="1807" height="200" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1577030774732" />
+    <state width="1807" height="344" key="GridCell.Tab.1.bottom" timestamp="1576596010710">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1576596010710" />
+    <state width="1807" height="344" key="GridCell.Tab.1.center" timestamp="1576596010710">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1576596010710" />
+    <state width="1807" height="344" key="GridCell.Tab.1.left" timestamp="1576596010709">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1576596010709" />
+    <state width="1807" height="344" key="GridCell.Tab.1.right" timestamp="1576596010710">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1576596010710" />
     <state x="576" y="298" width="824" height="508" key="IDE.errors.dialog" timestamp="1576088812759">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="576" y="298" width="824" height="508" key="IDE.errors.dialog/67.27.1853.1053@67.27.1853.1053" timestamp="1576088812759" />
-    <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1576274613016">
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1576686806105">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1576274613016" />
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1576686806105" />
+    <state x="302" y="146" width="1372" height="813" key="new project wizard" timestamp="1576686840334">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="302" y="146" width="1372" height="813" key="new project wizard/67.27.1853.1053@67.27.1853.1053" timestamp="1576686840334" />
   </component>
 </project>
